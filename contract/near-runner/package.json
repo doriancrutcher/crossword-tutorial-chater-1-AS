@@ -1,0 +1,1 @@
+{"private":true,"scripts":{"test":"near-runner-ava"},"devDependencies":{"near-runner-ava":"0.1.1-alpha.0"}}

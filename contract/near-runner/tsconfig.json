@@ -1,0 +1,3 @@
+{
+  "extends": "near-runner-ava/tsconfig.ava.json"
+}
