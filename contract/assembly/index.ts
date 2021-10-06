@@ -8,7 +8,7 @@ export class Contract {
     this.solution = solution;
   }
 
-  getSolution(): string {
+  get_solution(): string {
     return this.solution;
   }
 
